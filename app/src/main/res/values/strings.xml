@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PharmacyApp</string>
+    <string name="drawer_menu_name">Menü</string>
+    <string name="top_app_bar_name">Eczanem</string>
+    <string name="try_again_button">Tekrar Deneyin</string>
+    <string name="home_screen_button_name">Nöbetçi Eczane Bul</string>
+    <string name="city_dialog_title_one">İl Seçiniz</string>
+    <string name="city_dialog_title_two">İlçe Seçiniz</string>
+    <string name="city_screen_dialog_close">Kapat</string>
+    <string name="drawer_menu_title_one">Ana Sayfa</string>
+    <string name="drawer_menu_title_two">Nöbetçi Eczaneler</string>
+    <string name="empty_list_title">Nöbetçi Eczane Bulunamadı</string>
+    <string name="empty_list_try_again">Başka Eczane Sorgula</string>
+    <string name="city">İl</string>
+    <string name="distrcit">İlçe</string>
+    <string name="address">Adres</string>
+    <string name="phone">Telofon</string>
+    <string name="pharmacy">Eczane</string>
+    <string name="pharmacy_detail">Eczane Detayı</string>
+</resources>
